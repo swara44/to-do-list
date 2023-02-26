@@ -1,2 +1,2 @@
-# to-do-list
-using react
+My-app
+I developed this project using react js.
